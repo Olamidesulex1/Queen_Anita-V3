@@ -55,7 +55,7 @@ global.rpg = {
 }
 
 //auto functioner
-global.autoTyping = false;                //make true to enable auto typing
+global.autoTyping = true;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;       //make true to view statuses
 global.unavailable = true;     
@@ -73,11 +73,11 @@ global.prefix = '.';
 
 global.autobio = false;
 
-global.antilink = false;
+global.antilink = true;
 
 global.antilinkkick = false;
 
-global.antilinkwarn = false;
+global.antilinkwarn = true;
 
 //_____________//
 // Don't change it
